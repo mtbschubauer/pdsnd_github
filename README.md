@@ -20,3 +20,6 @@ Robert Schubauer
 
 ### Company
 M&T Bank
+
+### State
+NY
